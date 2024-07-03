@@ -1,0 +1,6 @@
+CREATE TABLE staff (
+  StaffId VARCHAR(8),
+  FullName VARCHAR(100),
+  DirthDay DATE,
+  Gender INT
+);
